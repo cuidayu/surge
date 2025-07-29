@@ -1,5 +1,5 @@
-!name=TF
-!desc=自动加入TF
+#!name=TF-join
+#!desc=自动加入TF
 
 [Script]
 
