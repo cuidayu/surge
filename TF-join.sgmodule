@@ -1,5 +1,5 @@
-name=TF-join
-#!desc=
+!name=TF-join
+!desc=自动加入TF
 
 [Script]
 TF =type=cron,cronexp=0/5 * * * * *,script-path=https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/AutoJoinTF.js,timeout=30,enable=true
